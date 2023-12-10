@@ -1,6 +1,6 @@
-<p1>The solution of the Hackathon.</p1>
+<h1>The solution of the Hackathon.<h1>
 
-<p2>Here is the case:</p2>
+<h2>Here is the case:<h2>
 
 <div style="font-weight: 900">
 Критерии для кейса от Mastercard:
