@@ -1,4 +1,4 @@
-<h1>The solution of the Hackathon.<h1>
+The solution of the Hackathon.
 
 <h2>Here is the case:<h2>
 
