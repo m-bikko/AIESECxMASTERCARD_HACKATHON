@@ -2,7 +2,7 @@
 
 <h2>Here is the case:<h2>
 
-<div style="font-weight: 700; font-size: 18px;">
+<div style="font-weight: 200; font-size: 18px">
 Критерии для кейса от Mastercard:
 
 1. Анализ рынка и конкурентов (20 баллов):
